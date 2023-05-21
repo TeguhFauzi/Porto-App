@@ -2,13 +2,6 @@
 body {
   margin: 0;
   font-family: "Raleway", serif !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  /* background-image:url('./Assets/bg.jpg');
-  background-size: 100% auto; */
   background-color: 	#87CEEB;
  
 }
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
