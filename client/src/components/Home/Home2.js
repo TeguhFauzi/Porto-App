@@ -54,7 +54,7 @@ function Home2() {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/fernandocases94/"
+                  href="https://wa.me/085280840143"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
