@@ -17,7 +17,7 @@ function About() {
               paddingBottom: "50px",
             }}
           >
-            <h1 style={{ fontSize: "2.1em",color:'white' }}>
+            <h1 style={{ fontSize: "2.1em" }}>
               Know Who <strong className="purple">I am</strong>
             </h1>
             <Aboutcard />
